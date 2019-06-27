@@ -1,6 +1,13 @@
-head{
+body{
+    background: rgb(60,60,60);
+}
+header{
     text-align: center;
 }
-image{
-    width:50%;
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:45%;
+    padding: 50px;
 }
