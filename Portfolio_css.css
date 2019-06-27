@@ -30,3 +30,7 @@ p{
 body{
     background:teal;
 }
+button{
+    align-items: center;
+    color: darkgreen;
+}
