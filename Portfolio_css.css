@@ -26,11 +26,14 @@ p{
     background:teal;
     margin: 20px;
     font-size: 20px;
+    text-align: center;
 }
 body{
     background:teal;
 }
 button{
-    align-items: center;
-    color: darkgreen;
+    background-color: darkgreen;
+    text-align:center;
+    margin-left: 185px;
+    margin-right: 185px;
 }
