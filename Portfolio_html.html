@@ -1,13 +1,14 @@
 <html>
     <header>
         <title>Hey, this is a portfolio</title>
-        <script language="javascript" type="text/javascript">
-            function playSound('Za Warudo.mp3') {
-            document.getElementById("dummy").innerHTML= "<embed src=\""
-            +soundfile+"\" hidden=\"true\" autostart=\"true\"
-            loop=\"false\" />";
+        <script>
+            function play(){
+                 var audio = document.getElementById("audio");
+                 audio.play();
             }
         </script>
+        <input type="button" value="PLAY"  onclick="play()">
+        <audio id="audio" src="Za Warudo.mp3"></audio>
         <button onclick="window.location.href='Portfolio_projects.html'">Projects</button>
         <button onclick="window.location.href='Portfolio_about.html'">About me</button>
         <button onclick="window.location.href='Portfolio_memes.html'">Memes</button>
