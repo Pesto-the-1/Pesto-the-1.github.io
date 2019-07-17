@@ -3,7 +3,7 @@ html{
     font-family: 'Abel', sans-serif;
 }
 header{
-    background-image:url("pew.jpg");
+    background-image:url("assets/images/pew.jpg");
     align-items:center;
     padding: 20px;
     background-repeat:no-repeat;
