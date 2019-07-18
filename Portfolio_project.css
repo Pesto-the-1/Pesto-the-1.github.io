@@ -9,5 +9,8 @@ body{
     text-align:center;
 }
 #RPS{
-    background-image:url();
+    background-image:url("assets/images/RPS.PNG");
+    padding: 50px;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
