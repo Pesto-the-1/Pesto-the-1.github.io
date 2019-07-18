@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+}
+body{
+    background: darkslategray;
+}
+#act{
+    padding: 100px;
+    background-position:50%;
+    background-size:75%;
+    background-repeat: no-repeat;
+    text-align:bottom;
+    margin-right:121px;
+    margin-left:121px;
+}
+#home{
+    margin-left:650px;
+}
